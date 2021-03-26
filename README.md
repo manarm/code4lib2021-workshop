@@ -81,4 +81,4 @@ Much thanks are owed to the entire [Lando community](https://github.com/sponsors
 Thanks to [MySQLtutorial.org](https://www.mysqltutorial.org/about-us/) for use of their sample database in exercise 1.
 ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE).
